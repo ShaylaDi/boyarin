@@ -33,4 +33,4 @@ module.exports = {
   },
   plugins: [require('@tailwindcss/typography')]
 };
-/*dailama
+/*dailama трансбейба
