@@ -5,6 +5,8 @@
         "ms-vscode.cmake-tools",
         "editorconfig.editorconfig",
         "coenraads.bracket-pair-colorizer-2",
+        "ms-vscode.cmake-tools",
+        "editorconfig.editorconfig",
         "cheshirekow.cmake-format"
     ]
 }
